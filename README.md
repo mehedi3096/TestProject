@@ -1,6 +1,6 @@
 # mahatab_app
 
-A new Flutter project.
+A new Flutter project. This repo is for testing purposes only
 
 ## Getting Started
 
