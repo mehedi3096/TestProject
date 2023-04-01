@@ -47,10 +47,10 @@ class Home extends StatelessWidget {
               child: Text("SnackBar"),
             ),
             ElevatedButton(
-              child: Text("Api Page"),
               onPressed: () {
-                Get.toNamed('/api');
+                Get.toNamed('/testapi');
               },
+              child: Text("Test Api"),
             ),
             ElevatedButton(
               onPressed: () => _showDialog(),
